@@ -1,5 +1,6 @@
 ---
-docFooter: false
+prev: false
+next: false
 ---
 
 # Palantir · Commercial internship

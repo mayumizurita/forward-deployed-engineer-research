@@ -4,12 +4,16 @@
 
 **Start with programming fundamentals and evidence you have built something.** Specialization and eligibility differ substantially across these postings.
 
+<div class="internship-comparison">
+
 | Role | Stated qualifications / fit signals | Important constraint |
 | --- | --- | --- |
 | [Palantir Commercial](./jobs/palantir-intern.md) | Engineering degree; one programming language | December 2027 or spring 2028 graduation |
 | [Pace](./jobs/pace-intern.md) | Software foundation, one language, a built project, clear communication | In-person NYC; 10–14 weeks |
 | [Revel Software](./jobs/revel-intern.md) | Current technical degree; C, C++ or Python; debugging and communication | 2027/2028 graduation; ITAR eligibility; on-site |
 | [AiStudio](./jobs/aistudio-intern.md) | CS fundamentals, building evidence, ambiguity tolerance, business curiosity | Listed as India-remote; confirm geographic eligibility |
+
+</div>
 
 ## Timing at a glance
 

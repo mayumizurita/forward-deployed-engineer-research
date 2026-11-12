@@ -7,3 +7,13 @@
 .vp-doc a:focus-visible { outline: 3px solid var(--vp-c-brand-1); outline-offset: 3px; }
 .research-meta { color: var(--vp-c-text-2); font-size: .875rem; margin: 1rem 0 1.5rem; }
 @media (min-width: 960px) { .VPDoc.has-aside .content-container { max-width: 760px !important; } }
+@media (max-width: 639px) {
+  .internship-comparison table,
+  .internship-comparison tbody { display: block; width: 100%; }
+  .internship-comparison thead { display: none; }
+  .internship-comparison tr { display: block; margin: 0 0 16px; border: 1px solid var(--vp-c-divider); border-radius: 6px; padding: 12px; background: var(--vp-c-bg-soft); }
+  .internship-comparison td { display: block; border: 0; padding: 4px 0; }
+  .internship-comparison td:first-child { font-size: 1rem; font-weight: 600; padding-bottom: 8px; }
+  .internship-comparison td:nth-child(2)::before { content: 'Qualifications / fit: '; font-weight: 600; }
+  .internship-comparison td:nth-child(3)::before { content: 'Constraint: '; font-weight: 600; }
+}

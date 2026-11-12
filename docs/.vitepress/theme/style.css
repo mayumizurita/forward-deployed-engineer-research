@@ -1,0 +1,9 @@
+:root { --vp-c-brand-1: #17645f; --vp-c-brand-2: #267b74; --vp-c-brand-3: #17645f; --vp-font-family-base: 'Segoe UI', sans-serif; }
+.dark { --vp-c-brand-1: #80ccc2; --vp-c-brand-2: #a4ddd5; }
+.vp-doc { line-height: 1.75; }
+.vp-doc h1 { max-width: 24ch; letter-spacing: -.035em; }
+.vp-doc table { font-size: .9rem; }
+.vp-doc th { white-space: nowrap; }
+.vp-doc a:focus-visible { outline: 3px solid var(--vp-c-brand-1); outline-offset: 3px; }
+.research-meta { color: var(--vp-c-text-2); font-size: .875rem; margin: 1rem 0 1.5rem; }
+@media (min-width: 960px) { .VPDoc.has-aside .content-container { max-width: 760px !important; } }

@@ -1,2 +1,24 @@
-# forward-deployed-engineer-research
-Concise, source-backed research on Forward Deployed Engineer internships and full-time roles. Built with VitePress.
+# Forward Deployed Engineer research
+
+Concise research from seven real employer job descriptions: four internships, one new-graduate role and two experienced roles. Checked November 12, 2026.
+
+**[Read the site](https://mayumizurita.github.io/forward-deployed-engineer-research/)**
+
+## Structure
+
+- Overview and work: understand responsibilities.
+- Internships and full-time: compare eligibility by career stage.
+- Skills: distinguish shared foundations from specialized requirements.
+- Job briefs and sources: inspect the evidence and limitations.
+
+## Run locally
+
+Requires Node.js 22 or later.
+
+```sh
+npm ci
+npm run docs:dev
+npm run docs:build
+```
+
+Built with VitePress. GitHub Pages publishes the generated site. Job summaries are paraphrases with links to the original employer descriptions; availability must be rechecked.

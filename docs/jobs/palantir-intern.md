@@ -1,3 +1,7 @@
+---
+docFooter: false
+---
+
 # Palantir · Commercial internship
 
 **Forward Deployed Software Engineer, Internship – Commercial** · Chicago · Internship

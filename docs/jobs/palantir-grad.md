@@ -1,3 +1,7 @@
+---
+docFooter: false
+---
+
 # Palantir · New graduate
 
 **Forward Deployed Software Engineer, New Grad – Commercial** · New York City · Hybrid full-time

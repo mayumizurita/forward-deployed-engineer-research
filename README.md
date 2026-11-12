@@ -22,3 +22,11 @@ npm run docs:build
 ```
 
 Built with VitePress. GitHub Pages publishes the generated site. Job summaries are paraphrases with links to the original employer descriptions; availability must be rechecked.
+
+## Review trail
+
+[Published-site review and fixes — issue #1](https://github.com/mayumizurita/forward-deployed-engineer-research/issues/1). The review checks internship timing, evidence freshness, navigation, search and narrow-screen reading.
+
+## Build dependency note
+
+VitePress 1.6.4's build/development dependencies report three npm audit findings (two moderate, one high), with no automatic fix available on November 12, 2026. GitHub Pages serves only generated static files. Review upstream fixes before exposing a local development server.

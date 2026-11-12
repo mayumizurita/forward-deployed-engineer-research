@@ -1,3 +1,7 @@
+---
+docFooter: false
+---
+
 # Pace · FDE internship
 
 **Forward Deployed Engineer, Intern** · New York City · On-site internship

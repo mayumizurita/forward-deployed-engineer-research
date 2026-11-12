@@ -1,3 +1,7 @@
+---
+docFooter: false
+---
+
 # AiStudio · FDE internship
 
 **Forward Deployed Engineer Intern** · India-remote · Internship

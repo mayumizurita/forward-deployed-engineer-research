@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | P1 | [Palantir internship — Commercial](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) | Employer ATS indexed text; direct fetch blocked |
 | P2 | [Pace internship](https://jobs.ashbyhq.com/withpace/24c69367-3dfe-428e-98e6-0a6bf94a00e1) | Full employer page read in browser; application link visible |
-| P3 | [Revel software internship](https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc/) | Employer ATS indexed full description; direct fetch JS-only |
+| P3 | [Revel software internship](https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc/) | Full employer page read in browser; application link visible |
 | P4 | [AiStudio internship](https://jobs.ashbyhq.com/aistudio/b4a4f30b-ea11-41c7-bb46-9984165d768b) | Employer ATS indexed description |
 | P5 | [Palantir new graduate — Commercial](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728) | Employer ATS indexed full description; direct fetch blocked |
 | P6 | [Netic full-time](https://jobs.ashbyhq.com/netic/286a085a-2942-455a-a384-8c44ff5b7e85) | Employer ATS indexed full description |

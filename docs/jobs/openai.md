@@ -1,3 +1,7 @@
+---
+docFooter: false
+---
+
 # OpenAI · Experienced FDE
 
 **Forward Deployed Engineer (FDE) – Seattle** · Hybrid full-time

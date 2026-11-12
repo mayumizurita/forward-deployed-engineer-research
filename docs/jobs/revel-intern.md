@@ -1,8 +1,12 @@
+---
+docFooter: false
+---
+
 # Revel · Software internship
 
 **Internship: Forward Deployed Engineer, Software** · Los Angeles / San Francisco · On-site
 
-[Original job description](https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc/) · P3 · Checked November 12, 2026 via indexed employer text; application status unconfirmed.
+[Original job description](https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc/) · P3 · Full employer page and application link visible November 12, 2026.
 
 ## Work
 

@@ -1,3 +1,7 @@
+---
+docFooter: false
+---
+
 # Netic · Experienced FDE
 
 **Forward Deployed Engineer** · San Francisco · On-site full-time
